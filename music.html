@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mood Recommendation Music App</title>
+    <!-- Link to your external CSS file -->
+    <style>
+        /* CSS file */
+
+/* CSS styles */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://i.pinimg.com/originals/1b/e2/97/1be297757627c9fd8521eb7dfea586da.png"); /* Change background color to a darker shade */
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff; /* Change text color to white */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #A291D0; /* Change container background color */
+    border-radius: 10px; /* Add border radius for container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add box shadow */
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px; /* Add margin below heading */
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    transform: translateX(45%)
+}
+
+.dropdown-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; /* Add margin to separate dropdown from button */
+}
+
+.dropdown {
+    width: 50%; /* Adjust width of dropdown menu as needed */
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 30%; /* Make button full width */
+    padding: 10px;
+    background-image: linear-gradient(90deg, purple, blue); /* Change button color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s; /* Add transition effect */
+    transform: translateX(110%)
+
+}
+
+button:hover {
+    background-color: #45a049; /* Darken button color on hover */
+}
+
+.recommendations {
+    display: flex; /* Display recommendations in a row */
+    flex-wrap: wrap; /* Allow recommendations to wrap to next line */
+}
+
+.recommendation {
+    flex: 0 0 33.33%; /* Each recommendation takes up one-third of the container width */
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.recommendation img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px; /* Add margin below image */
+    border-radius: 5px;
+}
+
+.recommendation p {
+    margin: 0;
+    font-size: 14px;
+}
+
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mood Recommendation Music App</h1>
+        <label for="mood">Select your mood:</label>
+        <div class="dropdown-container">
+            <select id="mood" class="dropdown">
+                <option value="Happy">Happy</option>
+                <option value="Sad">Sad</option>
+                <option value="Anger">Anger</option>
+                <option value="Surprise">Surprise</option>
+                <option value="Love">Love</option>
+                <option value="Fear">Fear</option>
+                <option value="Disgust">Disgust</option>
+
+            </select>
+        </div>
+        <button onclick="getRecommendations()">Get Recommendations</button>
+        <div id="recommendations" class="recommendations"></div>
+    </div>
+
+    <script>
+        function getRecommendations() {
+            var mood = document.getElementById("mood").value;
+            fetchRecommendations(mood);
+        }
+
+        function fetchRecommendations(mood) {
+            fetch('/recommend', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ 'mood': mood })
+            })
+            .then(response => response.json())
+            .then(df => displayRecommendations(df))
+            .catch(error => console.error('Error:', error));
+        }
+
+        function displayRecommendations(recommendations) {
+            var recommendationsDiv = document.getElementById("recommendations");
+            recommendationsDiv.innerHTML = "<h2>Recommended Songs:</h2>";
+            recommendations.forEach(function(recommendation) {
+                var recommendationElement = document.createElement("div");
+                recommendationElement.classList.add("recommendation");
+
+                // Add image element
+                var imageElement = document.createElement("img");
+                imageElement.src = recommendation.Image_URL;
+                imageElement.alt = recommendation.Song_Name;
+                imageElement.style.width = "100px"; // Adjust width as needed
+                recommendationElement.appendChild(imageElement);
+
+                // Add text element for song name and album
+                var textElement = document.createElement("p");
+                textElement.textContent = recommendation.Song_Name + " - " + recommendation.Artist;
+                recommendationElement.appendChild(textElement);
+
+                recommendationsDiv.appendChild(recommendationElement);
+            });
+        }
+    </script>
+</body>
+</html>
+ 

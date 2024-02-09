@@ -1,0 +1,710 @@
+song_id,Song_Name,Artist,Album,Mood,Image_URL
+1,Intro: Singularity,BTS,Love Yourself: Tear,Surprise,https://upload.wikimedia.org/wikipedia/en/8/88/Love_Yourself_Tear_Cover.jpeg
+2,FAKE LOVE,BTS,Love Yourself: Tear,Sad,https://upload.wikimedia.org/wikipedia/en/8/88/Love_Yourself_Tear_Cover.jpeg
+3,The Truth Untold,BTS,Love Yourself: Tear,Sad,https://upload.wikimedia.org/wikipedia/en/8/88/Love_Yourself_Tear_Cover.jpeg
+4,134340,BTS,Love Yourself: Tear,Disgust,https://upload.wikimedia.org/wikipedia/en/8/88/Love_Yourself_Tear_Cover.jpeg
+5,Paradise,BTS,Love Yourself: Tear,Happy,https://upload.wikimedia.org/wikipedia/en/8/88/Love_Yourself_Tear_Cover.jpeg
+6,Love Maze,BTS,Love Yourself: Tear,Love,https://upload.wikimedia.org/wikipedia/en/8/88/Love_Yourself_Tear_Cover.jpeg
+7,Magic Shop,BTS,Love Yourself: Tear,Happy,https://upload.wikimedia.org/wikipedia/en/8/88/Love_Yourself_Tear_Cover.jpeg
+8,Airplane pt.2,BTS,Love Yourself: Tear,Happy,https://upload.wikimedia.org/wikipedia/en/8/88/Love_Yourself_Tear_Cover.jpeg
+9,Anpanman,BTS,Love Yourself: Tear,Happy,https://upload.wikimedia.org/wikipedia/en/8/88/Love_Yourself_Tear_Cover.jpeg
+10,So What,BTS,Love Yourself: Tear,Anger,https://upload.wikimedia.org/wikipedia/en/8/88/Love_Yourself_Tear_Cover.jpeg
+11,Outro: Tear,BTS,Love Yourself: Tear,Sad,https://upload.wikimedia.org/wikipedia/en/8/88/Love_Yourself_Tear_Cover.jpeg
+12,Intro: Persona,BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+13,Boy With Luv,BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+14,Make It Right,BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+15,Jamais Vu,BTS,Map of the Soul: 7,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+16,Dionysus,BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+17,Interlude: Shadow,BTS,Map of the Soul: 7,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+18,Black Swan,BTS,Map of the Soul: 7,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+19,Filter,BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+20,My Time,BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+21,Louder than bombs,BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+22,ON,BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+23,UGH!,BTS,Map of the Soul: 7,Anger,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+24,00:00(Zero O'Clock,BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+25,Inner Child,BTS,Map of the Soul: 7,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+26,Friends,BTS,Map of the Soul: 7,Love,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+27,Respect,BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+28,Moon,BTS,Map of the Soul: 7,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+29,We are Bulletproof: the Eternal,BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+30,Outro: Ego,BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+31,ON(ft. SIA),BTS,Map of the Soul: 7,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/2/21/BTS_-_Map_of_the_Soul_7.png/220px-BTS_-_Map_of_the_Soul_7.png
+32,Mark My Words,Justin Bieber,Purpose,Sad,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+33,I'll Show You,Justin Bieber,Purpose,Love,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+34,What Do You Mean?,Justin Bieber,Purpose,Fear,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+35,Sorry,Justin Bieber,Purpose,Sad,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+36,Love Yourself,Justin Bieber,Purpose,Love,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+37,Company,Justin Bieber,Purpose,Happy,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+38,No Pressure,Justin Bieber,Purpose,Fear,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+39,No Sense,Justin Bieber,Purpose,Fear,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+40,The Feeling,Justin Bieber,Purpose,Disgust,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+41,Life Is Worth Living,Justin Bieber,Purpose,Happy,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+42,Where Are Ü Now,Justin Bieber,Purpose,Sad,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+43,Children,Justin Bieber,Purpose,Happy,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+44,Purpose,Justin Bieber,Purpose,Happy,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+45,Been You,Justin Bieber,Purpose,Happy,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+46,Get Used to It,Justin Bieber,Purpose,Happy,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+47,We Are,Justin Bieber,Purpose,Happy,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+48,Trust,Justin Bieber,Purpose,Love,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+49,All in It,Justin Bieber,Purpose,Love,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+50,What Do You Mean - Acoustic,Justin Bieber,Purpose,Sad,https://upload.wikimedia.org/wikipedia/en/2/27/Justin_Bieber_-_Purpose_%28Official_Album_Cover%29.png
+51,All Around Me,Justin Bieber,Changes,Love,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+52,Habitual,Justin Bieber,Changes,Disgust,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+53,Come Around Me,Justin Bieber,Changes,Love,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+54,Intentions,Justin Bieber,Changes,Happy,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+55,Yummy,Justin Bieber,Changes,Love,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+56,Available,Justin Bieber,Changes,Love,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+57,Forever,Justin Bieber,Changes,Love,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+58,Running Over,Justin Bieber,Changes,Fear,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+59,Take It Out On Me,Justin Bieber,Changes,Happy,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+60,Second Emotion,Justin Bieber,Changes,Anger,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+61,Get Me,Justin Bieber,Changes,Love,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+62,ETA,Justin Bieber,Changes,Fear,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+63,Changes,Justin Bieber,Changes,Happy,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+64,Confirmation,Justin Bieber,Changes,Love,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+65,That's What Love Is,Justin Bieber,Changes,Love,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+66,At Least For Now,Justin Bieber,Changes,Fear,https://upload.wikimedia.org/wikipedia/en/1/16/Justin_Bieber_-_Changes.png
+67,Hit,Seventeen,An Ode,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Seventeen_-_An_Ode.png/220px-Seventeen_-_An_Ode.png
+68,Lie Again,Seventeen,An Ode,Fear,https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Seventeen_-_An_Ode.png/220px-Seventeen_-_An_Ode.png
+69,Fear,Seventeen,An Ode,Fear,https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Seventeen_-_An_Ode.png/220px-Seventeen_-_An_Ode.png
+70,Let Me Hear You Say,Seventeen,An Ode,Love,https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Seventeen_-_An_Ode.png/220px-Seventeen_-_An_Ode.png
+71,247,Seventeen,An Ode,Disgust,https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Seventeen_-_An_Ode.png/220px-Seventeen_-_An_Ode.png
+72,Second Life,Seventeen,An Ode,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Seventeen_-_An_Ode.png/220px-Seventeen_-_An_Ode.png
+73,Network Love,Seventeen,An Ode,Love,https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Seventeen_-_An_Ode.png/220px-Seventeen_-_An_Ode.png
+74,Back It Up,Seventeen,An Ode,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Seventeen_-_An_Ode.png/220px-Seventeen_-_An_Ode.png
+75,Lucky,Seventeen,An Ode,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Seventeen_-_An_Ode.png/220px-Seventeen_-_An_Ode.png
+76,Snap Shoot,Seventeen,An Ode,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Seventeen_-_An_Ode.png/220px-Seventeen_-_An_Ode.png
+78,HOME;RUN,Seventeen,Semicolon,Happy,https://upload.wikimedia.org/wikipedia/zh/5/55/SEMICOLON.jpg
+79,Do Re Mi,Seventeen,Semicolon,Happy,https://upload.wikimedia.org/wikipedia/zh/5/55/SEMICOLON.jpg
+80,HEY BUDDY,Seventeen,Semicolon,Happy,https://upload.wikimedia.org/wikipedia/zh/5/55/SEMICOLON.jpg
+81,Light a Flame,Seventeen,Semicolon,Happy,https://upload.wikimedia.org/wikipedia/zh/5/55/SEMICOLON.jpg
+82,AH! LOVE,Seventeen,Semicolon,Happy,https://upload.wikimedia.org/wikipedia/zh/5/55/SEMICOLON.jpg
+83,Rock with You,Seventeen,Semicolon,Happy,https://upload.wikimedia.org/wikipedia/zh/5/55/SEMICOLON.jpg
+84,Real Life,The Weeknd,Beauty Behind the Madness,Fear,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+85,Losers,The Weeknd,Beauty Behind the Madness,Anger,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+86,Tell Your Friends,The Weeknd,Beauty Behind the Madness,Love,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+87,Often,The Weeknd,Beauty Behind the Madness,Sad,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+88,The Hills,The Weeknd,Beauty Behind the Madness,Surprise,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+89,Acquainted,The Weeknd,Beauty Behind the Madness,Happy,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+90,Can't Feel My Face,The Weeknd,Beauty Behind the Madness,Sad,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+91,Shameless,The Weeknd,Beauty Behind the Madness,Happy,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+92,Earned It,The Weeknd,Beauty Behind the Madness,Happy,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+93,In the Night,The Weeknd,Beauty Behind the Madness,Surprise,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+94,As You Are,The Weeknd,Beauty Behind the Madness,Happy,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+95,Dark Times,The Weeknd,Beauty Behind the Madness,Fear,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+96,Prisoner,The Weeknd,Beauty Behind the Madness,Sad,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+97,Angel,The Weeknd,Beauty Behind the Madness,Happy,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png
+98,Alone Again,The Weeknd,After Hours,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+99,Too Late,The Weeknd,After Hours,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+100,Hardest To Love,The Weeknd,After Hours,Fear,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+101,Scared To Love,The Weeknd,After Hours,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+102,Snowchild,The Weeknd,After Hours,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+103,Escape From LA,The Weeknd,After Hours,Fear,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+104,Heartless,The Weeknd,After Hours,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+105,Faith,The Weeknd,After Hours,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+106,Blinding Lights,The Weeknd,After Hours,Surprise,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+107,In Your Eyes,The Weeknd,After Hours,Love,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+108,Save Your Tears,The Weeknd,After Hours,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+109,Repeat After Me(Interlude),The Weeknd,After Hours,Fear,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+110,After Hours,The Weeknd,After Hours,Love,https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png
+111,Moonlight,Ariana Grande,Dangerous Woman,Love,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+112,Dangerous Woman,Ariana Grande,Dangerous Woman,Love,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+113,Be Alright,Ariana Grande,Dangerous Woman,Love,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+114,Into You,Ariana Grande,Dangerous Woman,Happy,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+115,Side to Side,Ariana Grande,Dangerous Woman,Happy,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+116,Let Me Love You,Ariana Grande,Dangerous Woman,Love,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+117,Greedy,Ariana Grande,Dangerous Woman,Love,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+118,Leave Me Lonely,Ariana Grande,Dangerous Woman,Sad,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+119,Everyday,Ariana Grande,Dangerous Woman,Happy,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+120,Sometimes,Ariana Grande,Dangerous Woman,Sad,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+121,I Don't Care,Ariana Grande,Dangerous Woman,Sad,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+122,Bad Decisions,Ariana Grande,Dangerous Woman,Sad,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+123,Touch It,Ariana Grande,Dangerous Woman,Love,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+124,Knew Better / Forever Boy,Ariana Grande,Dangerous Woman,Sad,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+125,Thinking Bout You,Ariana Grande,Dangerous Woman,Love,"https://m.media-amazon.com/images/I/A1A-okb0pnL._UF1000,1000_QL80_.jpg"
+126,Imagine,Ariana Grande,"Thank U, Next",Love,https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png
+127,Needy,Ariana Grande,"Thank U, Next",Sad,https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png
+128,NASA,Ariana Grande,"Thank U, Next",Disgust,https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png
+129,Bloodline,Ariana Grande,"Thank U, Next",Happy,https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png
+130,Fake Smile,Ariana Grande,"Thank U, Next",Fear,https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png
+131,Bad Idea,Ariana Grande,"Thank U, Next",Sad,https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png
+132,Make Up,Ariana Grande,"Thank U, Next",Happy,https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png
+133,Ghostin,Ariana Grande,"Thank U, Next",Sad,https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png
+134,In My Head,Ariana Grande,"Thank U, Next",Disgust,https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png
+135,7 Rings,Ariana Grande,"Thank U, Next",Disgust,https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png
+136,"Thank U, Next",Ariana Grande,"Thank U, Next",Happy,https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png
+137,"Break Up with Your Girlfriend, I'm Bored",Ariana Grande,"Thank U, Next",Happy,https://upload.wikimedia.org/wikipedia/en/b/b2/Ariana_Grande_Thank_U_Next.png
+138,GO LIVE,Stray Kids,GO,Happy,https://m.media-amazon.com/images/I/714glpZ71HL.jpg
+139,God's Menu,Stray Kids,GO,Happy,https://m.media-amazon.com/images/I/714glpZ71HL.jpg
+140,Easy,Stray Kids,GO,Happy,https://m.media-amazon.com/images/I/714glpZ71HL.jpg
+141,Pacemaker,Stray Kids,GO,Happy,https://m.media-amazon.com/images/I/714glpZ71HL.jpg
+142,Airplane,Stray Kids,GO,Happy,https://m.media-amazon.com/images/I/714glpZ71HL.jpg
+143,TOP,Stray Kids,GO,Fear,https://m.media-amazon.com/images/I/714glpZ71HL.jpg
+144,SLUMP,Stray Kids,GO,Fear,https://m.media-amazon.com/images/I/714glpZ71HL.jpg
+145,Another Day,Stray Kids,GO,Love,https://m.media-amazon.com/images/I/714glpZ71HL.jpg
+146,Phobia,Stray Kids,GO,Sad,https://m.media-amazon.com/images/I/714glpZ71HL.jpg
+147,Blueprint,Stray Kids,GO,Love,https://m.media-amazon.com/images/I/714glpZ71HL.jpg
+148,TA,Stray Kids,GO,Fear,https://m.media-amazon.com/images/I/714glpZ71HL.jpg
+149,Haven,Stray Kids,GO,Love,https://m.media-amazon.com/images/I/714glpZ71HL.jpg
+150,The View,Stray Kids,NOEASY,Love,https://upload.wikimedia.org/wikipedia/en/5/59/Stray_Kids_-_Noeasy_%28Digital%29.jpeg
+151,Thunderous,Stray Kids,NOEASY,Happy,https://upload.wikimedia.org/wikipedia/en/5/59/Stray_Kids_-_Noeasy_%28Digital%29.jpeg
+152,DOMINO,Stray Kids,NOEASY,Happy,https://upload.wikimedia.org/wikipedia/en/5/59/Stray_Kids_-_Noeasy_%28Digital%29.jpeg
+153,SSICK,Stray Kids,NOEASY,Disgust,https://upload.wikimedia.org/wikipedia/en/5/59/Stray_Kids_-_Noeasy_%28Digital%29.jpeg
+154,Silent Cry,Stray Kids,NOEASY,Sad,https://upload.wikimedia.org/wikipedia/en/5/59/Stray_Kids_-_Noeasy_%28Digital%29.jpeg
+155,"Sorry, I Love You",Stray Kids,NOEASY,Sad,https://upload.wikimedia.org/wikipedia/en/5/59/Stray_Kids_-_Noeasy_%28Digital%29.jpeg
+156,CHEESE,Stray Kids,NOEASY,Happy,https://upload.wikimedia.org/wikipedia/en/5/59/Stray_Kids_-_Noeasy_%28Digital%29.jpeg
+157,Secret Secret,Stray Kids,NOEASY,Surprise,https://upload.wikimedia.org/wikipedia/en/5/59/Stray_Kids_-_Noeasy_%28Digital%29.jpeg
+158,Star Lost,Stray Kids,NOEASY,Sad,https://upload.wikimedia.org/wikipedia/en/5/59/Stray_Kids_-_Noeasy_%28Digital%29.jpeg
+159,Welcome to New York,Taylor Swift,1989,Happy,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+160,Blank Space,Taylor Swift,1989,Love,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+161,Out of the Woods,Taylor Swift,1989,Sad,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+162,All You Had to Do Was Stay,Taylor Swift,1989,Sad,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+163,Shake It Off,Taylor Swift,1989,Happy,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+164,I Wish You Would,Taylor Swift,1989,Love,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+165,Bad Blood,Taylor Swift,1989,Fear,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+166,Wildest Dreams,Taylor Swift,1989,Love,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+167,How You Get the Girl,Taylor Swift,1989,Happy,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+168,This Love,Taylor Swift,1989,Love,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+169,I Know Places,Taylor Swift,1989,Surprise,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+170,Clean,Taylor Swift,1989,Happy,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+171,...Ready For It?,Taylor Swift,Reputation,Happy,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+172,End Game,Taylor Swift,Reputation,Happy,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+173,I Did Something Bad,Taylor Swift,Reputation,Disgust,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+174,Don’t Blame Me,Taylor Swift,Reputation,Happy,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+175,Delicate,Taylor Swift,Reputation,Love,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+176,Look What You Made Me Do,Taylor Swift,Reputation,Anger,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+177,So It Goes...,Taylor Swift,Reputation,Love,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+178,Gorgeous,Taylor Swift,Reputation,Love,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+179,Getaway Car,Taylor Swift,Reputation,Happy,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+180,King of My Heart,Taylor Swift,Reputation,Love,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+181,Dancing With Our Hands Tied,Taylor Swift,Reputation,Disgust,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+182,Dress,Taylor Swift,Reputation,Love,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+183,This Is Why We Can’t Have Nice Things,Taylor Swift,Reputation,Happy,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+184,Call It What You Want,Taylor Swift,Reputation,Love,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+185,New Year’s Day,Taylor Swift,Reputation,Sad,https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png
+186,Declaration,Ateez,Treasure Ep. Fin: All to Action,Love,https://upload.wikimedia.org/wikipedia/en/1/1c/Ateez_-_Treasure_EP.Fin_-_All_to_Action.png
+187,Wonderland,Ateez,Treasure Ep. Fin: All to Action,Happy,https://upload.wikimedia.org/wikipedia/en/1/1c/Ateez_-_Treasure_EP.Fin_-_All_to_Action.png
+188,Dazzling Light,Ateez,Treasure Ep. Fin: All to Action,Happy,https://upload.wikimedia.org/wikipedia/en/1/1c/Ateez_-_Treasure_EP.Fin_-_All_to_Action.png
+189,Mist,Ateez,Treasure Ep. Fin: All to Action,Surprise,https://upload.wikimedia.org/wikipedia/en/1/1c/Ateez_-_Treasure_EP.Fin_-_All_to_Action.png
+190,Precious (Overture),Ateez,Treasure Ep. Fin: All to Action,Love,https://upload.wikimedia.org/wikipedia/en/1/1c/Ateez_-_Treasure_EP.Fin_-_All_to_Action.png
+191,Win,Ateez,Treasure Ep. Fin: All to Action,Happy,https://upload.wikimedia.org/wikipedia/en/1/1c/Ateez_-_Treasure_EP.Fin_-_All_to_Action.png
+192,If Without You,Ateez,Treasure Ep. Fin: All to Action,Love,https://upload.wikimedia.org/wikipedia/en/1/1c/Ateez_-_Treasure_EP.Fin_-_All_to_Action.png
+193,Thank U,Ateez,Treasure Ep. Fin: All to Action,Happy,https://upload.wikimedia.org/wikipedia/en/1/1c/Ateez_-_Treasure_EP.Fin_-_All_to_Action.png
+194,Sunrise,Ateez,Treasure Ep. Fin: All to Action,Happy,https://upload.wikimedia.org/wikipedia/en/1/1c/Ateez_-_Treasure_EP.Fin_-_All_to_Action.png
+195,With U,Ateez,Treasure Ep. Fin: All to Action,Love,https://upload.wikimedia.org/wikipedia/en/1/1c/Ateez_-_Treasure_EP.Fin_-_All_to_Action.png
+196,Deja Vu,Ateez,ZERO: FEVER Part.3,Sad,https://upload.wikimedia.org/wikipedia/en/0/00/Ateez_-_Zero_Fever_Part_3.jpg
+197,Eternal Sunshine,Ateez,ZERO: FEVER Part.3,Happy,https://upload.wikimedia.org/wikipedia/en/0/00/Ateez_-_Zero_Fever_Part_3.jpg
+198,Stargate,Ateez,ZERO: FEVER Part.3,Happy,https://upload.wikimedia.org/wikipedia/en/0/00/Ateez_-_Zero_Fever_Part_3.jpg
+199,Rocky,Ateez,ZERO: FEVER Part.3,Happy,https://upload.wikimedia.org/wikipedia/en/0/00/Ateez_-_Zero_Fever_Part_3.jpg
+200,Be My Lover,Ateez,ZERO: FEVER Part.3,Love,https://upload.wikimedia.org/wikipedia/en/0/00/Ateez_-_Zero_Fever_Part_3.jpg
+201,Turbulence,Ateez,ZERO: FEVER Part.3,Disgust,https://upload.wikimedia.org/wikipedia/en/0/00/Ateez_-_Zero_Fever_Part_3.jpg
+202,Fever,Ateez,ZERO: FEVER Part.3,Happy,https://upload.wikimedia.org/wikipedia/en/0/00/Ateez_-_Zero_Fever_Part_3.jpg
+203,Not Too Late,Ateez,ZERO: FEVER Part.3,Sad,https://upload.wikimedia.org/wikipedia/en/0/00/Ateez_-_Zero_Fever_Part_3.jpg
+204,Stay,Ateez,ZERO: FEVER Part.3,Love,https://upload.wikimedia.org/wikipedia/en/0/00/Ateez_-_Zero_Fever_Part_3.jpg
+205,Cyber Sex,Doja Cat,Hot Pink,Love,https://upload.wikimedia.org/wikipedia/en/8/87/Doja_Cat_-_Hot_Pink.png
+206,Won’t Bite,Doja Cat,Hot Pink,Happy,https://upload.wikimedia.org/wikipedia/en/8/87/Doja_Cat_-_Hot_Pink.png
+207,Rules,Doja Cat,Hot Pink,Happy,https://upload.wikimedia.org/wikipedia/en/8/87/Doja_Cat_-_Hot_Pink.png
+208,Bottom Bitch,Doja Cat,Hot Pink,Happy,https://upload.wikimedia.org/wikipedia/en/8/87/Doja_Cat_-_Hot_Pink.png
+209,Say So,Doja Cat,Hot Pink,Happy,https://upload.wikimedia.org/wikipedia/en/8/87/Doja_Cat_-_Hot_Pink.png
+210,Like That,Doja Cat,Hot Pink,Love,https://upload.wikimedia.org/wikipedia/en/8/87/Doja_Cat_-_Hot_Pink.png
+211,Talk Dirty,Doja Cat,Hot Pink,Love,https://upload.wikimedia.org/wikipedia/en/8/87/Doja_Cat_-_Hot_Pink.png
+212,Addiction,Doja Cat,Hot Pink,Disgust,https://upload.wikimedia.org/wikipedia/en/8/87/Doja_Cat_-_Hot_Pink.png
+213,Streets,Doja Cat,Hot Pink,Love,https://upload.wikimedia.org/wikipedia/en/8/87/Doja_Cat_-_Hot_Pink.png
+214,Shine,Doja Cat,Hot Pink,Happy,https://upload.wikimedia.org/wikipedia/en/8/87/Doja_Cat_-_Hot_Pink.png
+215,Better Than Me,Doja Cat,Hot Pink,Sad,https://upload.wikimedia.org/wikipedia/en/8/87/Doja_Cat_-_Hot_Pink.png
+216,Woman,Doja Cat,Planet Her,Happy,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+217,Naked,Doja Cat,Planet Her,Sad,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+218,Payday,Doja Cat,Planet Her,Happy,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+219,Get Into It (Yuh),Doja Cat,Planet Her,Happy,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+220,Need to Know,Doja Cat,Planet Her,Surprise,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+221,I Don’t Do Drugs,Doja Cat,Planet Her,Sad,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+222,Love to Dream,Doja Cat,Planet Her,Love,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+223,You Right,Doja Cat,Planet Her,Love,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+224,Been Like This,Doja Cat,Planet Her,Sad,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+225,Options,Doja Cat,Planet Her,Sad,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+226,Ain’t Shit,Doja Cat,Planet Her,Happy,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+227,Imagine,Doja Cat,Planet Her,Surprise,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+228,Up and Down,Doja Cat,Planet Her,Happy,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+229,Tonight,Doja Cat,Planet Her,Happy,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+230,Kiss Me More,Doja Cat,Planet Her,Love,https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png
+231,3D,Jungkook,Golden,Love,https://upload.wikimedia.org/wikipedia/en/d/d9/Jungkook_-_Golden.png
+232,Closer To You,Jungkook,Golden,Love,https://upload.wikimedia.org/wikipedia/en/d/d9/Jungkook_-_Golden.png
+233,Seven(Explicit Ver.),Jungkook,Golden,Happy,https://upload.wikimedia.org/wikipedia/en/d/d9/Jungkook_-_Golden.png
+234,Standing Next To You,Jungkook,Golden,Love,https://upload.wikimedia.org/wikipedia/en/d/d9/Jungkook_-_Golden.png
+235,Yes or No,Jungkook,Golden,Surprise,https://upload.wikimedia.org/wikipedia/en/d/d9/Jungkook_-_Golden.png
+236,Please don't change,Jungkook,Golden,Sad,https://upload.wikimedia.org/wikipedia/en/d/d9/Jungkook_-_Golden.png
+237,Hate You,Jungkook,Golden,Anger,https://upload.wikimedia.org/wikipedia/en/d/d9/Jungkook_-_Golden.png
+238,Somebody,Jungkook,Golden,Surprise,https://upload.wikimedia.org/wikipedia/en/d/d9/Jungkook_-_Golden.png
+239,Too Sad to Dance,Jungkook,Golden,Sad,https://upload.wikimedia.org/wikipedia/en/d/d9/Jungkook_-_Golden.png
+240,Shot Glass of Tears,Jungkook,Golden,Sad,https://upload.wikimedia.org/wikipedia/en/d/d9/Jungkook_-_Golden.png
+241,Seven(Clean Ver.),Jungkook,Golden,Happy,https://upload.wikimedia.org/wikipedia/en/d/d9/Jungkook_-_Golden.png
+242,Castle,Halsey,Golden,Surprise,https://upload.wikimedia.org/wikipedia/en/d/d9/Jungkook_-_Golden.png
+243,Hold Me Down,Halsey,Badlands,Disgust,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+244,New Americana,Halsey,Badlands,Anger,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+245,Drive,Halsey,Badlands,Love,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+246,Roman Holiday,Halsey,Badlands,Surprise,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+247,Colors,Halsey,Badlands,Surprise,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+248,Coming Down,Halsey,Badlands,Sad,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+249,Haunting,Halsey,Badlands,Surprise,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+250,Control,Halsey,Badlands,Surprise,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+251,Young God,Halsey,Badlands,Happy,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+252,Ghost,Halsey,Badlands,Sad,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+253,Hurricane,Halsey,Badlands,Disgust,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+255,Gasoline,Halsey,Badlands,Disgust,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+256,Empty Gold,Halsey,Badlands,Love,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+257,Hold Me Down (Remix),Halsey,Badlands,Disgust,https://upload.wikimedia.org/wikipedia/en/4/4c/Halsey_-_Badlands.png
+258,The Prologue,Halsey,Hopeless Fountain Kingdom,Happy,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+259,100 Letters,Halsey,Hopeless Fountain Kingdom,Anger,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+260,Eyes Closed,Halsey,Hopeless Fountain Kingdom,Happy,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+261,Heaven in Hiding,Halsey,Hopeless Fountain Kingdom,Fear,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+262,Alone,Halsey,Hopeless Fountain Kingdom,Sad,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+263,Now or Never,Halsey,Hopeless Fountain Kingdom,Sad,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+264,Sorry,Halsey,Hopeless Fountain Kingdom,Sad,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+265,Good Mourning,Halsey,Hopeless Fountain Kingdom,Sad,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+266,Lie,Halsey,Hopeless Fountain Kingdom,Fear,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+267,Walls Could Talk,Halsey,Hopeless Fountain Kingdom,Surprise,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+268,Bad at Love,Halsey,Hopeless Fountain Kingdom,Sad,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+269,Strangers,Halsey,Hopeless Fountain Kingdom,Sad,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+270,Devil in Me,Halsey,Hopeless Fountain Kingdom,Sad,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+271,Hopeless,Halsey,Hopeless Fountain Kingdom,Sad,https://upload.wikimedia.org/wikipedia/en/d/d4/Halsey_-_Hopeless_Fountain_Kingdom.png
+272,I'm the Best,Nicki Minaj,Pink Friday,Happy,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+273,Roman's Revenge,Nicki Minaj,Pink Friday,Anger,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+274,Did It On'em,Nicki Minaj,Pink Friday,Fear,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+275,Right Thru Me,Nicki Minaj,Pink Friday,Sad,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+276,Fly,Nicki Minaj,Pink Friday,Happy,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+277,Save Me,Nicki Minaj,Pink Friday,Sad,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+278,Moment 4 Life,Nicki Minaj,Pink Friday,Happy,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+279,Check It Out,Nicki Minaj,Pink Friday,Happy,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+280,Blazin,Nicki Minaj,Pink Friday,Happy,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+281,Here I Am,Nicki Minaj,Pink Friday,Happy,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+282,Dear Old Nicki,Nicki Minaj,Pink Friday,Sad,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+283,Your Love,Nicki Minaj,Pink Friday,Love,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+284,Last Chance,Nicki Minaj,Pink Friday,Sad,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+285,Super Bass,Nicki Minaj,Pink Friday,Happy,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+286,Blow Ya Mind,Nicki Minaj,Pink Friday,Disgust,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+287,Muny,Nicki Minaj,Pink Friday,Happy,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+288,Girls Fall Like Dominoes,Nicki Minaj,Pink Friday,Happy,"https://m.media-amazon.com/images/I/71g3MxnBypL._UF1000,1000_QL80_.jpg"
+289,All Things Go,Nicki Minaj,The Pinkprint,Sad,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+290,I Lied,Nicki Minaj,The Pinkprint,Fear,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+291,The Crying Game,Nicki Minaj,The Pinkprint,Love,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+292,Get On Your Knees,Nicki Minaj,The Pinkprint,Fear,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+293,Feeling Myself,Nicki Minaj,The Pinkprint,Happy,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+294,Only,Nicki Minaj,The Pinkprint,Fear,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+295,Want Some More,Nicki Minaj,The Pinkprint,Happy,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+296,Four Door Aventador,Nicki Minaj,The Pinkprint,Happy,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+297,Favorite,Nicki Minaj,The Pinkprint,Love,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+298,Buy a Heart,Nicki Minaj,The Pinkprint,Love,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+299,Trini Dem Girls,Nicki Minaj,The Pinkprint,Happy,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+300,Anaconda,Nicki Minaj,The Pinkprint,Happy,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+301,The Night Is Still Young,Nicki Minaj,The Pinkprint,Happy,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+302,Pills N Potions,Nicki Minaj,The Pinkprint,Sad,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+303,Bed of Lies,Nicki Minaj,The Pinkprint,Sad,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+304,Grand Piano,Nicki Minaj,The Pinkprint,Sad,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+305,Big Daddy,Nicki Minaj,The Pinkprint,Happy,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+306,Shanghai,Nicki Minaj,The Pinkprint,Happy,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+307,Win Again,Nicki Minaj,The Pinkprint,Happy,https://upload.wikimedia.org/wikipedia/en/a/aa/Nicki_Minaj_-_The_Pinkprint_%28Official_Album_Cover%29.png
+308,WILD,Troye Sivan,Blue Neighbourhood,Love,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+309,BITE,Troye Sivan,Blue Neighbourhood,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+310,FOOLS,Troye Sivan,Blue Neighbourhood,Sad,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+311,EASE,Troye Sivan,Blue Neighbourhood,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+312,THE QUIET,Troye Sivan,Blue Neighbourhood,Love,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+313,DKLA,Troye Sivan,Blue Neighbourhood,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+314,TALK ME DOWN,Troye Sivan,Blue Neighbourhood,Love,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+315,COOL,Troye Sivan,Blue Neighbourhood,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+316,HEAVEN,Troye Sivan,Blue Neighbourhood,Love,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+317,YOUTH,Troye Sivan,Blue Neighbourhood,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+318,LOST BOY,Troye Sivan,Blue Neighbourhood,Love,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+319,for him.,Troye Sivan,Blue Neighbourhood,Love,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+320,SUBURBIA,Troye Sivan,Blue Neighbourhood,Sad,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+321,TOO GOOD,Troye Sivan,Blue Neighbourhood,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+322,BLUE,Troye Sivan,Blue Neighbourhood,Sad,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+323,WILD (XXYYXX Remix),Troye Sivan,Blue Neighbourhood,Sad,https://upload.wikimedia.org/wikipedia/en/3/38/Troye_Sivan_-_Blue_Neighbourhood.png
+324,SEVENTEEN,Troye Sivan,Bloom,Happy,https://upload.wikimedia.org/wikipedia/en/1/1e/Troye_Sivan_-_Bloom_%28Official_Album_Cover%29.png
+325,MY MY MY!,Troye Sivan,Bloom,Happy,https://upload.wikimedia.org/wikipedia/en/1/1e/Troye_Sivan_-_Bloom_%28Official_Album_Cover%29.png
+326,THE GOOD SIDE,Troye Sivan,Bloom,Sad,https://upload.wikimedia.org/wikipedia/en/1/1e/Troye_Sivan_-_Bloom_%28Official_Album_Cover%29.png
+327,BLOOM,Troye Sivan,Bloom,Happy,https://upload.wikimedia.org/wikipedia/en/1/1e/Troye_Sivan_-_Bloom_%28Official_Album_Cover%29.png
+328,POSTCARD,Troye Sivan,Bloom,Sad,https://upload.wikimedia.org/wikipedia/en/1/1e/Troye_Sivan_-_Bloom_%28Official_Album_Cover%29.png
+329,DANCE TO THIS,Troye Sivan,Bloom,Happy,https://upload.wikimedia.org/wikipedia/en/1/1e/Troye_Sivan_-_Bloom_%28Official_Album_Cover%29.png
+330,PLUM,Troye Sivan,Bloom,Happy,https://upload.wikimedia.org/wikipedia/en/1/1e/Troye_Sivan_-_Bloom_%28Official_Album_Cover%29.png
+331,WHAT A HEAVENLY WAY TO DIE,Troye Sivan,Bloom,Love,https://upload.wikimedia.org/wikipedia/en/1/1e/Troye_Sivan_-_Bloom_%28Official_Album_Cover%29.png
+332,LUCKY STRIKE,Troye Sivan,Bloom,Love,https://upload.wikimedia.org/wikipedia/en/1/1e/Troye_Sivan_-_Bloom_%28Official_Album_Cover%29.png
+333,ANIMAL,Troye Sivan,Bloom,Wild,https://upload.wikimedia.org/wikipedia/en/1/1e/Troye_Sivan_-_Bloom_%28Official_Album_Cover%29.png
+334,THIS THIS,Troye Sivan,Bloom,Love,https://upload.wikimedia.org/wikipedia/en/1/1e/Troye_Sivan_-_Bloom_%28Official_Album_Cover%29.png
+335,HEAVEN,Troye Sivan,Bloom,Love,https://upload.wikimedia.org/wikipedia/en/1/1e/Troye_Sivan_-_Bloom_%28Official_Album_Cover%29.png
+336,One Call Away,Charlie Puth,Nine Track Mind,Happy,https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_Puth_-_Nine_Track_Mind.png
+337,Dangerously,Charlie Puth,Nine Track Mind,Sad,https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_Puth_-_Nine_Track_Mind.png
+338,Marvin Gaye,Charlie Puth,Nine Track Mind,Happy,https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_Puth_-_Nine_Track_Mind.png
+339,Losing My Mind,Charlie Puth,Nine Track Mind,Sad,https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_Puth_-_Nine_Track_Mind.png
+340,We Don't Talk Anymore,Charlie Puth,Nine Track Mind,Sad,https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_Puth_-_Nine_Track_Mind.png
+341,My Gospel,Charlie Puth,Nine Track Mind,Happy,https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_Puth_-_Nine_Track_Mind.png
+342,Up All Night,Charlie Puth,Nine Track Mind,Happy,https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_Puth_-_Nine_Track_Mind.png
+343,Left Right Left,Charlie Puth,Nine Track Mind,Happy,https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_Puth_-_Nine_Track_Mind.png
+344,Then There's You,Charlie Puth,Nine Track Mind,Love,https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_Puth_-_Nine_Track_Mind.png
+345,Suffer,Charlie Puth,Nine Track Mind,Sad,https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_Puth_-_Nine_Track_Mind.png
+346,As You Are,Charlie Puth,Nine Track Mind,Love,https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_Puth_-_Nine_Track_Mind.png
+347,Some Type of Love,Charlie Puth,Nine Track Mind,Love,https://upload.wikimedia.org/wikipedia/en/f/f6/Charlie_Puth_-_Nine_Track_Mind.png
+348,The Way I Am,Charlie Puth,Voicenotes,Happy,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+349,Attention,Charlie Puth,Voicenotes,Love,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+350,LA Girls,Charlie Puth,Voicenotes,Fear,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+351,How Long,Charlie Puth,Voicenotes,Sad,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+352,Done for Me,Charlie Puth,Voicenotes,Happy,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+353,Patient,Charlie Puth,Voicenotes,Happy,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+354,If You Leave Me Now,Charlie Puth,Voicenotes,Sad,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+355,BOY,Charlie Puth,Voicenotes,Happy Love,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+356,Slow It Down,Charlie Puth,Voicenotes,Love,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+357,Change,Charlie Puth,Voicenotes,Happy,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+358,Somebody Told Me,Charlie Puth,Voicenotes,Disgust,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+359,Empty Cups,Charlie Puth,Voicenotes,Happy,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+360,Through It All,Charlie Puth,Voicenotes,Love,https://upload.wikimedia.org/wikipedia/en/5/55/Charlie_Puth_Voicenotes.png
+361,Keep the Family Close,Drake,Views,Love,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+362,9,Drake,Views,Love,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+363,U With Me?,Drake,Views,Love,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+364,Feel No Ways,Drake,Views,Sad,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+365,Hype,Drake,Views,Happy,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+366,Weston Road Flows,Drake,Views,Happy,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+367,Redemption,Drake,Views,Happy,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+368,With You,Drake,Views,Love,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+369,Faithful,Drake,Views,Love,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+370,Still Here,Drake,Views,Fear,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+371,Controlla,Drake,Views,Happy,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+372,One Dance,Drake,Views,Happy,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+373,Grammys,Drake,Views,Happy,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+374,Childs Play,Drake,Views,Happy,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+375,Pop Style,Drake,Views,Love,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+376,Too Good,Drake,Views,Love,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+377,Summers Over Interlude,Drake,Views,Sad,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+378,Fire & Desire,Drake,Views,Love,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+379,Views,Drake,Views,Love,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+380,Hotline Bling,Drake,Views,Love,https://upload.wikimedia.org/wikipedia/en/a/af/Drake_-_Views_cover.jpg
+381,Over My Dead Body,Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+382,Shot for Me,Drake,Take Care,Disgust,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+383,Headlines,Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+384,Crew Love,Drake,Take Care,Love,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+385,Take Care,Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+386,Marvins Room,Drake,Take Care,Love,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+387,Buried Alive Interlude,Drake,Take Care,Sad,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+388,Under Ground Kings,Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+389,We'll Be Fine,Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+390,Make Me Proud,Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+391,Lord Knows,Drake,Take Care,Love,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+392,Cameras / Good Ones Go Interlude,Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+393,Doing It Wrong,Drake,Take Care,Sad,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+394,The Real Her,Drake,Take Care,Love,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+395,Look What You've Done,Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+396,HYFR (Hell Ya Fucking Right),Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+397,Practice,Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+398,The Ride,Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+399,The Motto,Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+400,Take Care (Deluxe Edition Bonus Track),Drake,Take Care,Happy,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+401,Heat of the Moment (Deluxe Edition Bonus Track),Drake,Take Care,Disgust,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg
+402,Drugs & The Internet,Lauv,how I'm feeling,Disgust,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+403,"fuck, i'm lonely",Lauv,how I'm feeling,Sad,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+404,Lonely Eyes,Lauv,how I'm feeling,Sad,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+405,Sims,Lauv,how I'm feeling,Happy,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+406,Believed,Lauv,how I'm feeling,Faith,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+407,Billy,Lauv,how I'm feeling,Anger,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+408,Feelings,Lauv,how I'm feeling,Love,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+409,Canada,Lauv,how I'm feeling,Happy,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+410,For Now,Lauv,how I'm feeling,Fear,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+411,Mean It,Lauv,how I'm feeling,Love,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+412,Tell My Mama,Lauv,how I'm feeling,Love,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+413,Sweatpants,Lauv,how I'm feeling,Love,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+414,Who,Lauv,how I'm feeling,Love,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+415,I Like Me Better,Lauv,how I'm feeling,Love,https://upload.wikimedia.org/wikipedia/en/4/45/Lauv_-_How_I%27m_Feeling.png
+416,Revival,Selena Gomez,Revival,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png
+417,Kill Em with Kindness,Selena Gomez,Revival,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png
+418,Hands to Myself,Selena Gomez,Revival,Love,https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png
+419,Same Old Love,Selena Gomez,Revival,Sad,https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png
+420,Sober,Selena Gomez,Revival,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png
+421,Good for You,Selena Gomez,Revival,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png
+422,Camouflage,Selena Gomez,Revival,Fear,https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png
+423,Me & the Rhythm,Selena Gomez,Revival,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png
+424,Survivors,Selena Gomez,Revival,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png
+425,Body Heat,Selena Gomez,Revival,Love,https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png
+426,Rise,Selena Gomez,Revival,Happy,https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png
+427,Rare,Selena Gomez,Rare,Happy,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+428,Dance Again,Selena Gomez,Rare,Happy,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+429,Look at Her Now,Selena Gomez,Rare,Love,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+430,Lose You to Love Me,Selena Gomez,Rare,Sad,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+431,Ring,Selena Gomez,Rare,Love,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+432,Vulnerable,Selena Gomez,Rare,Disgust,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+433,People You Know,Selena Gomez,Rare,Happy,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+434,Let Me Get Me,Selena Gomez,Rare,Love,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+435,Crowded Room,Selena Gomez,Rare,Love,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+436,Kinda Crazy,Selena Gomez,Rare,Love,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+437,Fun,Selena Gomez,Rare,Happy,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+438,Cut You Off,Selena Gomez,Rare,Happy,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+439,A Sweeter Place,Selena Gomez,Rare,Happy,https://upload.wikimedia.org/wikipedia/en/d/d1/Selena_Gomez_-_Rare.png
+440,Life of the Party,Shawn Mendes,Handwritten,Happy,https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png
+441,Stitches,Shawn Mendes,Handwritten,Sad,https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png
+442,Never Be Alone,Shawn Mendes,Handwritten,Sad,https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png
+443,Kid in Love,Shawn Mendes,Handwritten,Love,https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png
+444,I Don't Even Know Your Name,Shawn Mendes,Handwritten,Love,https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png
+445,Something Big,Shawn Mendes,Handwritten,Happy,https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png
+446,Strings,Shawn Mendes,Handwritten,Love,https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png
+447,Aftertaste,Shawn Mendes,Handwritten,Happy,https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png
+448,Air,Shawn Mendes,Handwritten,Happy,https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png
+449,Crazy,Shawn Mendes,Handwritten,Love,https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png
+450,A Little Too Much,Shawn Mendes,Handwritten,Fear,https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png
+451,This Is What It Takes,Shawn Mendes,Handwritten,Happy,https://upload.wikimedia.org/wikipedia/en/0/02/Shawn_Mendes_-_Handwritten.png
+452,Ruin,Shawn Mendes,Illuminate,Sad,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521
+453,Mercy,Shawn Mendes,Illuminate,Sad,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521
+454,Treat You Better,Shawn Mendes,Illuminate,Love,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521
+455,Three Empty Words,Shawn Mendes,Illuminate,Sad,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521
+456,Don't Be a Fool,Shawn Mendes,Illuminate,Love,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521
+457,Like This,Shawn Mendes,Illuminate,Love,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521
+458,No Promises,Shawn Mendes,Illuminate,Love,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521
+459,Lights On,Shawn Mendes,Illuminate,Love,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521
+460,Honest,Shawn Mendes,Illuminate,Love,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521
+461,Patience,Shawn Mendes,Illuminate,Fear,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47531
+462,Bad Reputation,Shawn Mendes,Illuminate,Fear,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47531
+463,Understand,Shawn Mendes,Illuminate,Love,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47531
+464,The A Team,Ed Sheeran,+,Disgust,https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png
+465,Drunk,Ed Sheeran,+,Love,https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png
+466,U.N.I.,Ed Sheeran,+,Love,https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png
+467,Grade 8,Ed Sheeran,+,Happy,https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png
+468,Wake Me Up,Ed Sheeran,+,Love,https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png
+469,Small Bump,Ed Sheeran,+,Love,https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png
+470,This,Ed Sheeran,+,Happy,https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png
+471,The City,Ed Sheeran,+,Fear,https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png
+472,Lego House,Ed Sheeran,+,Happy,https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png
+473,"You Need Me, I Don't Need You",Ed Sheeran,+,Happy,https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png
+474,Kiss Me,Ed Sheeran,+,Love,https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png
+475,Give Me Love,Ed Sheeran,+,Love,https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png
+476,One,Ed Sheeran,x,Love,https://upload.wikimedia.org/wikipedia/en/a/ad/X_cover.png
+477,I'm a Mess,Ed Sheeran,x,Love,https://upload.wikimedia.org/wikipedia/en/a/ad/X_cover.png
+478,Sing,Ed Sheeran,x,Love,https://upload.wikimedia.org/wikipedia/en/a/ad/X_cover.png
+479,Don't,Ed Sheeran,x,Sad,https://upload.wikimedia.org/wikipedia/en/a/ad/X_cover.png
+480,Nina,Ed Sheeran,x,Love,https://upload.wikimedia.org/wikipedia/en/a/ad/X_cover.png
+481,Photograph,Ed Sheeran,x,Love,https://upload.wikimedia.org/wikipedia/en/a/ad/X_cover.png
+482,Bloodstream,Ed Sheeran,x,Love,https://upload.wikimedia.org/wikipedia/en/a/ad/X_cover.png
+483,Tenerife Sea,Ed Sheeran,x,Love,https://upload.wikimedia.org/wikipedia/en/a/ad/X_cover.png
+484,Runaway,Ed Sheeran,x,Fear,https://upload.wikimedia.org/wikipedia/en/a/ad/X_cover.png
+485,The Man,Ed Sheeran,x,Happy,https://upload.wikimedia.org/wikipedia/en/a/ad/X_cover.png
+486,Thinking Out Loud,Ed Sheeran,x,Love,https://upload.wikimedia.org/wikipedia/en/a/ad/X_cover.png
+487,Afire Love,Ed Sheeran,x,Love,https://upload.wikimedia.org/wikipedia/en/a/ad/X_cover.png
+488,brutal,Olivia Rodrigo,SOUR,Happy,https://upload.wikimedia.org/wikipedia/en/b/b2/Olivia_Rodrigo_-_SOUR.png
+489,traitor,Olivia Rodrigo,SOUR,Sad,https://upload.wikimedia.org/wikipedia/en/b/b2/Olivia_Rodrigo_-_SOUR.png
+490,drivers license,Olivia Rodrigo,SOUR,Sad,https://upload.wikimedia.org/wikipedia/en/b/b2/Olivia_Rodrigo_-_SOUR.png
+491,"1 step forward, 3 steps back",Olivia Rodrigo,SOUR,Happy,https://upload.wikimedia.org/wikipedia/en/b/b2/Olivia_Rodrigo_-_SOUR.png
+492,deja vu,Olivia Rodrigo,SOUR,Happy,https://upload.wikimedia.org/wikipedia/en/b/b2/Olivia_Rodrigo_-_SOUR.png
+493,good 4 u,Olivia Rodrigo,SOUR,Anger,https://upload.wikimedia.org/wikipedia/en/b/b2/Olivia_Rodrigo_-_SOUR.png
+494,enough for you,Olivia Rodrigo,SOUR,Sad,https://upload.wikimedia.org/wikipedia/en/b/b2/Olivia_Rodrigo_-_SOUR.png
+495,happier,Olivia Rodrigo,SOUR,Fear,https://upload.wikimedia.org/wikipedia/en/b/b2/Olivia_Rodrigo_-_SOUR.png
+496,"jealousy, jealousy",Olivia Rodrigo,SOUR,Fear,https://upload.wikimedia.org/wikipedia/en/b/b2/Olivia_Rodrigo_-_SOUR.png
+497,favorite crime,Olivia Rodrigo,SOUR,Love,https://upload.wikimedia.org/wikipedia/en/b/b2/Olivia_Rodrigo_-_SOUR.png
+498,hope ur ok,Olivia Rodrigo,SOUR,Happy,https://upload.wikimedia.org/wikipedia/en/b/b2/Olivia_Rodrigo_-_SOUR.png
+499,Meet Me in the Hallway,Harry Styles,Harry Styles,Love,https://assets.vogue.com/photos/623b4f0174ede191983e2c76/master/pass/unnamed%20(3).jpg
+500,Sign of the Times,Harry Styles,Harry Styles,Symbolism,https://assets.vogue.com/photos/623b4f0174ede191983e2c76/master/pass/unnamed%20(3).jpg
+501,Carolina,Harry Styles,Harry Styles,Love,https://assets.vogue.com/photos/623b4f0174ede191983e2c76/master/pass/unnamed%20(3).jpg
+502,Two Ghosts,Harry Styles,Harry Styles,Happy,https://assets.vogue.com/photos/623b4f0174ede191983e2c76/master/pass/unnamed%20(3).jpg
+503,Sweet Creature,Harry Styles,Harry Styles,Love,https://assets.vogue.com/photos/623b4f0174ede191983e2c76/master/pass/unnamed%20(3).jpg
+504,Only Angel,Harry Styles,Harry Styles,Love,https://assets.vogue.com/photos/623b4f0174ede191983e2c76/master/pass/unnamed%20(3).jpg
+505,Kiwi,Harry Styles,Harry Styles,Love,https://assets.vogue.com/photos/623b4f0174ede191983e2c76/master/pass/unnamed%20(3).jpg
+506,Ever Since New York,Harry Styles,Harry Styles,Happy,https://assets.vogue.com/photos/623b4f0174ede191983e2c76/master/pass/unnamed%20(3).jpg
+507,Woman,Harry Styles,Harry Styles,Happy,https://assets.vogue.com/photos/623b4f0174ede191983e2c76/master/pass/unnamed%20(3).jpg
+508,From the Dining Table,Harry Styles,Harry Styles,Sad,https://assets.vogue.com/photos/623b4f0174ede191983e2c76/master/pass/unnamed%20(3).jpg
+509,The Chain,Harry Styles,Harry Styles,Happy,https://assets.vogue.com/photos/623b4f0174ede191983e2c76/master/pass/unnamed%20(3).jpg
+510,Golden,Harry Styles,Fine Line,Happy,https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png
+511,Watermelon Sugar,Harry Styles,Fine Line,Happy,https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png
+512,Adore You,Harry Styles,Fine Line,Happy,https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png
+513,Lights Up,Harry Styles,Fine Line,Surprise,https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png
+514,Cherry,Harry Styles,Fine Line,Love,https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png
+515,Falling,Harry Styles,Fine Line,Sad,https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png
+516,To Be So Lonely,Harry Styles,Fine Line,Sad,https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png
+517,She,Harry Styles,Fine Line,Surprise,https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png
+519,"Sunflower, Vol. 6",Harry Styles,Fine Line,Surprise,https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png
+520,Canyon Moon,Harry Styles,Fine Line,Happy,https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png
+521,Treat People with Kindness,Harry Styles,Fine Line,Happy,https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png
+522,Fine Line,Harry Styles,Fine Line,Surprise,https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png
+523,!!!!!!!,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Fear,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+524,bad guy,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Anger,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+525,xanny,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Love,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+526,you should see me in a crown,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Happy,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+527,all the good girls go to hell,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Love,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+528,wish you were gay,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Love,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+529,when the party's over,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Sad,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+530,8,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Fear,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+531,my strange addiction,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Fear,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+532,bury a friend,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Fear,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+533,ilomilo,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Fear,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+534,listen before i go,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Sad,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+535,i love you,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Love,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+536,goodbye,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Sad,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png
+537,Void,The Rose,Void,Sad,https://static.wikia.nocookie.net/the-rose/images/b/b7/Void.jpg/revision/latest?cb=20201208190226
+538,Sorry,The Rose,Void,Sad,https://static.wikia.nocookie.net/the-rose/images/b/b7/Void.jpg/revision/latest?cb=20201208190226
+539,RED,The Rose,Void,Love,https://static.wikia.nocookie.net/the-rose/images/b/b7/Void.jpg/revision/latest?cb=20201208190226
+540,Face,The Rose,Void,Love,https://static.wikia.nocookie.net/the-rose/images/b/b7/Void.jpg/revision/latest?cb=20201208190226
+541,Poison,The Rose,Void,Disgust,https://static.wikia.nocookie.net/the-rose/images/b/b7/Void.jpg/revision/latest?cb=20201208190226
+542,Grenade,Bruno Mars,Doo-Wops & Hooligans,Sad,https://upload.wikimedia.org/wikipedia/en/e/eb/Bruno_Mars_-_Doo-Wops_%26_Hooligans.png
+543,Just the Way You Are,Bruno Mars,Doo-Wops & Hooligans,Happy,https://upload.wikimedia.org/wikipedia/en/e/eb/Bruno_Mars_-_Doo-Wops_%26_Hooligans.png
+544,Our First Time,Bruno Mars,Doo-Wops & Hooligans,Love,https://upload.wikimedia.org/wikipedia/en/e/eb/Bruno_Mars_-_Doo-Wops_%26_Hooligans.png
+545,Runaway Baby,Bruno Mars,Doo-Wops & Hooligans,Anger,https://upload.wikimedia.org/wikipedia/en/e/eb/Bruno_Mars_-_Doo-Wops_%26_Hooligans.png
+546,The Lazy Song,Bruno Mars,Doo-Wops & Hooligans,Disgust,https://upload.wikimedia.org/wikipedia/en/e/eb/Bruno_Mars_-_Doo-Wops_%26_Hooligans.png
+547,Marry You,Bruno Mars,Doo-Wops & Hooligans,Love,https://upload.wikimedia.org/wikipedia/en/e/eb/Bruno_Mars_-_Doo-Wops_%26_Hooligans.png
+548,Talking to the Moon,Bruno Mars,Doo-Wops & Hooligans,Sad,https://upload.wikimedia.org/wikipedia/en/e/eb/Bruno_Mars_-_Doo-Wops_%26_Hooligans.png
+549,Liquor Store Blues,Bruno Mars,Doo-Wops & Hooligans,Disgust,https://upload.wikimedia.org/wikipedia/en/e/eb/Bruno_Mars_-_Doo-Wops_%26_Hooligans.png
+550,Count On Me,Bruno Mars,Doo-Wops & Hooligans,Love,https://upload.wikimedia.org/wikipedia/en/e/eb/Bruno_Mars_-_Doo-Wops_%26_Hooligans.png
+551,The Other Side,Bruno Mars,Doo-Wops & Hooligans,Happy,https://upload.wikimedia.org/wikipedia/en/e/eb/Bruno_Mars_-_Doo-Wops_%26_Hooligans.png
+552,24K Magic,Bruno Mars,24K Magic,Happy,"https://m.media-amazon.com/images/I/716mnZd24EL._UF1000,1000_QL80_.jpg"
+553,Chunky,Bruno Mars,24K Magic,Happy,"https://m.media-amazon.com/images/I/716mnZd24EL._UF1000,1000_QL80_.jpg"
+554,Perm,Bruno Mars,24K Magic,Happy,"https://m.media-amazon.com/images/I/716mnZd24EL._UF1000,1000_QL80_.jpg"
+555,That's What I Like,Bruno Mars,24K Magic,Love,"https://m.media-amazon.com/images/I/716mnZd24EL._UF1000,1000_QL80_.jpg"
+556,Versace on the Floor,Bruno Mars,24K Magic,Love,"https://m.media-amazon.com/images/I/716mnZd24EL._UF1000,1000_QL80_.jpg"
+557,Straight Up & Down,Bruno Mars,24K Magic,Happy,"https://m.media-amazon.com/images/I/716mnZd24EL._UF1000,1000_QL80_.jpg"
+558,Calling All My Lovelies,Bruno Mars,24K Magic,Sad,"https://m.media-amazon.com/images/I/716mnZd24EL._UF1000,1000_QL80_.jpg"
+559,Finesse,Bruno Mars,24K Magic,Happy,"https://m.media-amazon.com/images/I/716mnZd24EL._UF1000,1000_QL80_.jpg"
+560,Too Good to Say Goodbye,Bruno Mars,24K Magic,Sad,"https://m.media-amazon.com/images/I/716mnZd24EL._UF1000,1000_QL80_.jpg"
+561,The Best Part (Interlude),Meghan Trainor,Title,Happy,https://upload.wikimedia.org/wikipedia/en/f/f8/Meghan_Trainor_-_Title_%28Official_Album_Cover%29.png
+562,All About That Bass,Meghan Trainor,Title,Happy,https://upload.wikimedia.org/wikipedia/en/f/f8/Meghan_Trainor_-_Title_%28Official_Album_Cover%29.png
+563,Dear Future Husband,Meghan Trainor,Title,Expectations,https://upload.wikimedia.org/wikipedia/en/f/f8/Meghan_Trainor_-_Title_%28Official_Album_Cover%29.png
+564,Close Your Eyes,Meghan Trainor,Title,Love,https://upload.wikimedia.org/wikipedia/en/f/f8/Meghan_Trainor_-_Title_%28Official_Album_Cover%29.png
+565,3:00 AM,Meghan Trainor,Title,Disgust,https://upload.wikimedia.org/wikipedia/en/f/f8/Meghan_Trainor_-_Title_%28Official_Album_Cover%29.png
+566,Like I'm Gonna Lose You,Meghan Trainor,Title,Love,https://upload.wikimedia.org/wikipedia/en/f/f8/Meghan_Trainor_-_Title_%28Official_Album_Cover%29.png
+567,Bang Dem Sticks,Meghan Trainor,Title,Happy,https://upload.wikimedia.org/wikipedia/en/f/f8/Meghan_Trainor_-_Title_%28Official_Album_Cover%29.png
+568,Walkashame,Meghan Trainor,Title,Sad,https://upload.wikimedia.org/wikipedia/en/f/f8/Meghan_Trainor_-_Title_%28Official_Album_Cover%29.png
+569,Title,Meghan Trainor,Title,Happy,https://upload.wikimedia.org/wikipedia/en/f/f8/Meghan_Trainor_-_Title_%28Official_Album_Cover%29.png
+570,What If I,Meghan Trainor,Title,Fear,https://upload.wikimedia.org/wikipedia/en/f/f8/Meghan_Trainor_-_Title_%28Official_Album_Cover%29.png
+571,Me Too,Meghan Trainor,Thank You,Love,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
+572,Watch Me Do,Meghan Trainor,Thank You,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
+573,Better,Meghan Trainor,Thank You,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
+574,Hopeless Romantic,Meghan Trainor,Thank You,Love,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
+575,I Love Me,Meghan Trainor,Thank You,Love,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
+576,Kindly Calm Me Down,Meghan Trainor,Thank You,Fear,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
+577,Woman Up,Meghan Trainor,Thank You,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
+578,Just a Friend to You,Meghan Trainor,Thank You,Love,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
+579,I Won't Let You Down,Meghan Trainor,Thank You,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
+580,Dance Like Yo Daddy,Meghan Trainor,Thank You,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
+581,Champagne Problems,Meghan Trainor,Thank You,Disgust,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
+582,Mom,Meghan Trainor,Thank You,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
+583,Daydreamer,Adele,19,Love,https://upload.wikimedia.org/wikipedia/en/f/f8/Adele_-_19.png
+584,Best for Last,Adele,19,Happy,https://upload.wikimedia.org/wikipedia/en/f/f8/Adele_-_19.png
+585,Chasing Pavements,Adele,19,Sad,https://upload.wikimedia.org/wikipedia/en/f/f8/Adele_-_19.png
+586,Cold Shoulder,Adele,19,Fear,https://upload.wikimedia.org/wikipedia/en/f/f8/Adele_-_19.png
+587,Crazy for You,Adele,19,Love,https://upload.wikimedia.org/wikipedia/en/f/f8/Adele_-_19.png
+588,Melt My Heart to Stone,Adele,19,Love,https://upload.wikimedia.org/wikipedia/en/f/f8/Adele_-_19.png
+589,First Love,Adele,19,Happy,https://upload.wikimedia.org/wikipedia/en/f/f8/Adele_-_19.png
+590,Right as Rain,Adele,19,Happy,https://upload.wikimedia.org/wikipedia/en/f/f8/Adele_-_19.png
+591,Make You Feel My Love,Adele,19,Love,https://upload.wikimedia.org/wikipedia/en/f/f8/Adele_-_19.png
+592,My Same,Adele,19,Love,https://upload.wikimedia.org/wikipedia/en/f/f8/Adele_-_19.png
+593,Tired,Adele,19,Fear,https://upload.wikimedia.org/wikipedia/en/f/f8/Adele_-_19.png
+594,Hometown Glory,Adele,19,Happy,https://upload.wikimedia.org/wikipedia/en/f/f8/Adele_-_19.png
+595,Rolling in the Deep,Adele,21,Fear,https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1674869223306-I29HJOJF74D9Y3YCCWGE/Adele_21.png
+596,Rumour Has It,Adele,21,Disgust,https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1674869223306-I29HJOJF74D9Y3YCCWGE/Adele_21.png
+597,Turning Tables,Adele,21,Fear,https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1674869223306-I29HJOJF74D9Y3YCCWGE/Adele_21.png
+598,Don't You Remember,Adele,21,Happy,https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1674869223306-I29HJOJF74D9Y3YCCWGE/Adele_21.png
+599,Set Fire to the Rain,Adele,21,Happy,https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1674869223306-I29HJOJF74D9Y3YCCWGE/Adele_21.png
+600,He Won't Go,Adele,21,Fear,https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1674869223306-I29HJOJF74D9Y3YCCWGE/Adele_21.png
+601,Take It All,Adele,21,Sad,https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1674869223306-I29HJOJF74D9Y3YCCWGE/Adele_21.png
+602,I'll Be Waiting,Adele,21,Love,https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1674869223306-I29HJOJF74D9Y3YCCWGE/Adele_21.png
+603,One and Only,Adele,21,Love,https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1674869223306-I29HJOJF74D9Y3YCCWGE/Adele_21.png
+604,Lovesong,Adele,21,Love,https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1674869223306-I29HJOJF74D9Y3YCCWGE/Adele_21.png
+605,Someone Like You,Adele,21,Love,https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1674869223306-I29HJOJF74D9Y3YCCWGE/Adele_21.png
+606,Deuces,Chris Brown,F.A.M.E.,Sad,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+607,Up to You,Chris Brown,F.A.M.E.,Disgust,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+608,No BS,Chris Brown,F.A.M.E.,Anger,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+609,Look at Me Now,Chris Brown,F.A.M.E.,Happy,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+610,She Ain't You,Chris Brown,F.A.M.E.,Love,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+611,Say It with Me,Chris Brown,F.A.M.E.,Happy,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+612,Yeah 3x,Chris Brown,F.A.M.E.,Happy,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+613,Next to You,Chris Brown,F.A.M.E.,Love,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+614,All Back,Chris Brown,F.A.M.E.,Sad,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+615,Wet the Bed,Chris Brown,F.A.M.E.,Love,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+616,Oh My Love,Chris Brown,F.A.M.E.,Love,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+617,Should've Kissed You,Chris Brown,F.A.M.E.,Sad,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+618,Beautiful People,Chris Brown,F.A.M.E.,Love,https://upload.wikimedia.org/wikipedia/en/d/d6/ForgivingAllMyEnemies.PNG
+619,X,Chris Brown,X,Sad,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+620,Add Me In,Chris Brown,X,Love,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+621,Loyal,Chris Brown,X,Love,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+622,New Flame,Chris Brown,X,Love,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+623,Songs on 12 Play,Chris Brown,X,Love,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+624,101 (Interlude),Chris Brown,X,Happy,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+625,Drown In It,Chris Brown,X,Love,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+626,Came to Do,Chris Brown,X,Happy,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+627,Stereotype,Chris Brown,X,Love,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+628,Time for Love,Chris Brown,X,Love,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+629,Lady in a Glass Dress (Interlude),Chris Brown,X,Surprise,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+630,Autumn Leaves,Chris Brown,X,Happy,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+631,Do Better,Chris Brown,X,Happy,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+632,See You Around,Chris Brown,X,Sad,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+633,Don't Be Gone Too Long,Chris Brown,X,Love,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+634,Body Shots,Chris Brown,X,Love,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+635,Drunk Texting,Chris Brown,X,Love,https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_Brown_X.jpg
+636,What Makes You Beautiful,One Direction,Up All Night,Love,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+637,Gotta Be You,One Direction,Up All Night,Love,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+638,One Thing,One Direction,Up All Night,Happy,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+639,More Than This,One Direction,Up All Night,Love,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+640,Up All Night,One Direction,Up All Night,Happy,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+641,I Wish,One Direction,Up All Night,Love,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+642,Tell Me a Lie,One Direction,Up All Night,Disgust,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+643,Taken,One Direction,Up All Night,Love,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+644,I Want,One Direction,Up All Night,Love,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+645,Everything About You,One Direction,Up All Night,Love,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+646,Same Mistakes,One Direction,Up All Night,Sad,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+647,Save You Tonight,One Direction,Up All Night,Love,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+648,Stole My Heart,One Direction,Up All Night,Sad,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+649,Stand Up,One Direction,Up All Night,Happy,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+650,Moments,One Direction,Up All Night,Love,https://upload.wikimedia.org/wikipedia/en/9/96/One_direction_up_all_night_albumcover.jpg
+651,Live While We're Young,One Direction,Take Me Home,Happy,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+652,Kiss You,One Direction,Take Me Home,Love,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+653,Little Things,One Direction,Take Me Home,Love,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+654,"C'mon, C'mon",One Direction,Take Me Home,Happy,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+655,Last First Kiss,One Direction,Take Me Home,Love,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+656,Heart Attack,One Direction,Take Me Home,Love,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+657,Rock Me,One Direction,Take Me Home,Happy,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+658,Change My Mind,One Direction,Take Me Home,Fear,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+659,I Would,One Direction,Take Me Home,Love,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+660,Over Again,One Direction,Take Me Home,Happy,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+661,Back for You,One Direction,Take Me Home,Sad,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+662,They Don't Know About Us,One Direction,Take Me Home,Sad,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+663,Summer Love,One Direction,Take Me Home,Sad,https://upload.wikimedia.org/wikipedia/en/7/79/Take_Me_Home_by_One_Direction.png
+664,Umbrella,Rihanna,Good Girl Gone Bad,Love,"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51P50eDr-aL._UF1000,1000_QL80_.jpg"
+665,Push Up on Me,Rihanna,Good Girl Gone Bad,Love,"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51P50eDr-aL._UF1000,1000_QL80_.jpg"
+666,Don't Stop the Music,Rihanna,Good Girl Gone Bad,Happy,"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51P50eDr-aL._UF1000,1000_QL80_.jpg"
+667,Breakin' Dishes,Rihanna,Good Girl Gone Bad,Fear,"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51P50eDr-aL._UF1000,1000_QL80_.jpg"
+668,Shut Up and Drive,Rihanna,Good Girl Gone Bad,Happy,"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51P50eDr-aL._UF1000,1000_QL80_.jpg"
+669,Hate That I Love You,Rihanna,Good Girl Gone Bad,Happy,"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51P50eDr-aL._UF1000,1000_QL80_.jpg"
+670,Say It,Rihanna,Good Girl Gone Bad,Love,"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51P50eDr-aL._UF1000,1000_QL80_.jpg"
+671,Sell Me Candy,Rihanna,Good Girl Gone Bad,Love,"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51P50eDr-aL._UF1000,1000_QL80_.jpg"
+672,Lemme Get That,Rihanna,Good Girl Gone Bad,Love,"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51P50eDr-aL._UF1000,1000_QL80_.jpg"
+673,Rehab,Rihanna,Good Girl Gone Bad,Recovery,"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51P50eDr-aL._UF1000,1000_QL80_.jpg"
+674,Question Existing,Rihanna,Good Girl Gone Bad,Love,"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51P50eDr-aL._UF1000,1000_QL80_.jpg"
+675,Good Girl Gone Bad,Rihanna,Good Girl Gone Bad,Happy,"https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51P50eDr-aL._UF1000,1000_QL80_.jpg"
+676,You Da One,Rihanna,Talk That Talk,Happy,https://upload.wikimedia.org/wikipedia/en/8/8e/Rihanna_-_Talk_That_Talk_%28standard%29.png
+677,Where Have You Been,Rihanna,Talk That Talk,Fear,https://upload.wikimedia.org/wikipedia/en/8/8e/Rihanna_-_Talk_That_Talk_%28standard%29.png
+678,We Found Love,Rihanna,Talk That Talk,Love,https://upload.wikimedia.org/wikipedia/en/8/8e/Rihanna_-_Talk_That_Talk_%28standard%29.png
+679,Talk That Talk,Rihanna,Talk That Talk,Love,https://upload.wikimedia.org/wikipedia/en/8/8e/Rihanna_-_Talk_That_Talk_%28standard%29.png
+680,Cockiness (Love It),Rihanna,Talk That Talk,Happy,https://upload.wikimedia.org/wikipedia/en/8/8e/Rihanna_-_Talk_That_Talk_%28standard%29.png
+681,Birthday Cake,Rihanna,Talk That Talk,Love,https://upload.wikimedia.org/wikipedia/en/8/8e/Rihanna_-_Talk_That_Talk_%28standard%29.png
+682,We All Want Love,Rihanna,Talk That Talk,Love,https://upload.wikimedia.org/wikipedia/en/8/8e/Rihanna_-_Talk_That_Talk_%28standard%29.png
+683,Drunk on Love,Rihanna,Talk That Talk,Love,https://upload.wikimedia.org/wikipedia/en/8/8e/Rihanna_-_Talk_That_Talk_%28standard%29.png
+684,Roc Me Out,Rihanna,Talk That Talk,Love,https://upload.wikimedia.org/wikipedia/en/8/8e/Rihanna_-_Talk_That_Talk_%28standard%29.png
+685,Watch n' Learn,Rihanna,Talk That Talk,Love,https://upload.wikimedia.org/wikipedia/en/8/8e/Rihanna_-_Talk_That_Talk_%28standard%29.png
+686,Farewell,Rihanna,Talk That Talk,Sad,https://upload.wikimedia.org/wikipedia/en/8/8e/Rihanna_-_Talk_That_Talk_%28standard%29.png
+687,La La Land,Demi Lovato,Don't Forget,Happy,https://upload.wikimedia.org/wikipedia/en/2/2a/Demi_Lovato_-_Don%27t_Forget_cover.png
+688,Get Back,Demi Lovato,Don't Forget,Sad,https://upload.wikimedia.org/wikipedia/en/2/2a/Demi_Lovato_-_Don%27t_Forget_cover.png
+689,Trainwreck,Demi Lovato,Don't Forget,Fear,https://upload.wikimedia.org/wikipedia/en/2/2a/Demi_Lovato_-_Don%27t_Forget_cover.png
+690,Party,Demi Lovato,Don't Forget,Happy,https://upload.wikimedia.org/wikipedia/en/2/2a/Demi_Lovato_-_Don%27t_Forget_cover.png
+691,On the Line,Demi Lovato,Don't Forget,Fear,https://upload.wikimedia.org/wikipedia/en/2/2a/Demi_Lovato_-_Don%27t_Forget_cover.png
+692,Don't Forget,Demi Lovato,Don't Forget,Love,https://upload.wikimedia.org/wikipedia/en/2/2a/Demi_Lovato_-_Don%27t_Forget_cover.png
+693,Gonna Get Caught,Demi Lovato,Don't Forget,Fear,https://upload.wikimedia.org/wikipedia/en/2/2a/Demi_Lovato_-_Don%27t_Forget_cover.png
+694,Two Worlds Collide,Demi Lovato,Don't Forget,Fear,https://upload.wikimedia.org/wikipedia/en/2/2a/Demi_Lovato_-_Don%27t_Forget_cover.png
+695,The Middle,Demi Lovato,Don't Forget,Happy,https://upload.wikimedia.org/wikipedia/en/2/2a/Demi_Lovato_-_Don%27t_Forget_cover.png
+696,Until You're Mine,Demi Lovato,Don't Forget,Love,https://upload.wikimedia.org/wikipedia/en/2/2a/Demi_Lovato_-_Don%27t_Forget_cover.png
+697,Believe in Me,Demi Lovato,Don't Forget,Happy,https://upload.wikimedia.org/wikipedia/en/2/2a/Demi_Lovato_-_Don%27t_Forget_cover.png
+698,Confident,Demi Lovato,Confident,Sad,https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png
+699,Cool for the Summer,Demi Lovato,Confident,Happy,https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png
+700,Old Ways,Demi Lovato,Confident,Sad,https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png
+701,For You,Demi Lovato,Confident,Happy,https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png
+702,Stone Cold,Demi Lovato,Confident,Sad,https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png
+703,Kingdom Come,Demi Lovato,Confident,Happy,https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png
+704,Waitin for You,Demi Lovato,Confident,Happy,https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png
+705,Wildfire,Demi Lovato,Confident,Love,https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png
+706,Lionheart,Demi Lovato,Confident,Happy,https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png
+707,Yes,Demi Lovato,Confident,Love,https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png
+708,Father,Demi Lovato,Confident,Love,https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png
+709,Stars,Demi Lovato,Confident,Happy,https://upload.wikimedia.org/wikipedia/en/2/25/Demi_Lovato_-_Confident_%28Official_Single_Cover%29.png
+710,Until I Bleed Out,The Weeknd,After Hours,Sad,https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36
+711,Style,Taylor Swift,1989,Happy,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png
+712,NO,Meghan Trainor,Thank You,Happy,https://upload.wikimedia.org/wikipedia/en/3/38/Meghan_Trainor_-_Thank_You_%28Official_Album_Cover%29.png
